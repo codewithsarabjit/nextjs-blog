@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Read {' '} <Link href="/posts/first-post"><a>Next.js! by Sarabjit</a></Link>
+          Read {' '} <Link href="/posts/first-post"><a>Next.js! by Sarabjit edited</a></Link>
         </h1>
 
         <p className="description">
